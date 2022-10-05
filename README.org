@@ -1,4 +1,4 @@
-#+TITLE: Local library
+#+TITLE: Local Library
 #+AUTHOR: Justin Bealer
 #+DESCRIPTION:
 #+KEYWORDS: javascript
@@ -18,7 +18,7 @@ statistics about the program.
 Other people are taking care of the logistics and design, but they need you to
 build the algorithms.
 
-* Learning objectives for this:
+* Learning objectives for this project:
 + Differentiating between the three most common JavaScript error types
 + Solving bugs by using error messages
 + Differentiating between let, const, and var, and using each appropriately
@@ -29,3 +29,5 @@ build the algorithms.
 + Using find(), filter(), map(), some(), and every() to solve different problems
 + Using reduce() to solve different problems
 + Using sort() to sort arrays in various ways
+* How to run
+npm start
